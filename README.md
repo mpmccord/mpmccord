@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Melanie McCord (she/her), a senior computer science student at New College of Florida with a minor in statistics. I'm currently working on my honors thesis, which involves detecting cancer misinformation on Twitter. My experience includes applied machine learning, particularly related to unstructured text and image data and web development. To learn more about me, check out my website at <a href="https://melaniemccord.dev>melaniemccord.dev</a>.
 <!--
 **mpmccord/mpmccord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

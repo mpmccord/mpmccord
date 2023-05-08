@@ -3,6 +3,7 @@ I'm Melanie McCord (she/her), a senior computer science student at New College o
 <br></br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpmccord)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mpmccord)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mpmccord/mpmccord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

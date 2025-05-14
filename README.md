@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Melanie McCord, an MS student at William & Mary.
+- 🔭 I love statistical analysis, wrangling complex data, machine learning, and data visualization.
+- 🌱 I’m currently learning data manipulation techniques for code data.
+- 👯 I’m looking to collaborate on various projects related to machine learning, particularly text, medical, DNA, or software data.
+- 💬 Ask me about data visualization, NLP, or statistical analysis.
+- 📫 How to reach me: [https://www.linkedin.com/in/melanie-mccord/](https://www.linkedin.com/in/melanie-mccord/)
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: When I'm not programming, I sing choral music, work out, and spend time with my cat.

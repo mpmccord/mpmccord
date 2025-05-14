@@ -1,25 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Melanie McCord (she/her)
 
-<!--
-**mpmccord/mpmccord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring data scientist specializing in applied natural language processing, computer vision, and data visualization.
 
-Here are some ideas to get you started:
+## 🎓 Education
+- **M.S. Computer Science** - William & Mary (Expected: January 2026)
+  - Focus: Data Visualization, Deep Learning, Deep Transfer Learning
+- **B.A. Computer Science, Minor: Statistics** - New College of Florida (2023)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+- **Languages**: Python, R, Java, JavaScript
+- **ML Libraries**: PyTorch, HuggingFace Transformers, Scikit-Learn, OpenCV, NLTK, PySpark
+- **Tools**: Angular, React, Firebase, HTML, CSS, XML, Pandas, NumPy, Matplotlib, Seaborn, ggplot2, AWS, D3.js
 
-I am Melanie McCord, an MS student at William & Mary.
-- 🔭 I love statistical analysis, wrangling complex data, machine learning, and data visualization.
-- 🌱 I’m currently learning data manipulation techniques for code data.
-- 👯 I’m looking to collaborate on various projects related to machine learning, particularly text, medical, DNA, or software data.
-- 💬 Ask me about data visualization, NLP, or statistical analysis.
-- 📫 How to reach me: [https://www.linkedin.com/in/melanie-mccord/](https://www.linkedin.com/in/melanie-mccord/)
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: When I'm not programming, I sing choral music, work out, and spend time with my cat.
+## 📫 How to reach me
+- LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/melanie-mccord/)
+- GitHub: [@mpmccord](https://github.com/mpmccord)
+
+---
+*Looking for remote full-time roles in machine learning, natural language processing, and data science starting January 2026.*

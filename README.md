@@ -1,7 +1,4 @@
 # 👋 Hi, I'm Melanie McCord (she/her)
-
-Aspiring data scientist specializing in applied natural language processing, computer vision, and data visualization.
-
 ## 🎓 Education
 - **M.S. Computer Science** - William & Mary (Expected: January 2026)
   - Focus: Data Visualization, Deep Learning, Deep Transfer Learning

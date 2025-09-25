@@ -14,4 +14,3 @@
 - GitHub: [@mpmccord](https://github.com/mpmccord)
 
 ---
-*Looking for remote full-time roles in machine learning, natural language processing, and data science starting January 2026.*
